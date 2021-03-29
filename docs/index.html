@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Get started with MetaCall</title>
+  <meta name="description"
+        content="Documentation for developers looking to get started with MetaCall">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+  
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+  var repo = "https://github.com/metacall/get-started";
+    window.$docsify = {
+      name: 'Getting started with MetaCall',
+      repo: repo,
+	  plugins: [
+                EditOnGithubPlugin.create(
+                    repo + '/blob/master/docs/',
+                    null,
+                    '📝 Edit on GitHub',
+                )
+            ],
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+</body>
+</html>
