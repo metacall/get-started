@@ -27,6 +27,7 @@ MetaCall hosts multiple community examples. These examples serve as a great star
 
 - [Polyglot News Article Scrapper](https://github.com/metacall/ml-news-article-scraper-example)
 - [Polyglot URL Shortener](https://github.com/metacall/url-shortener-example)
+- [Polyglot Currency Converter](https://github.com/metacall/currency-convert-example)
 - [Polyglot Scrapper with proxy server](https://github.com/metacall/beautifulsoup-express-example)
 - [PDF Generator with MetaCall](https://github.com/metacall/pdf-generator-email-sender-landing-page-example)
 - [Using Telethon with NodeJS](https://github.com/metacall/telethon-nodejs-example)
