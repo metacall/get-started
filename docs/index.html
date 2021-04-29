@@ -19,8 +19,11 @@
 />
 <style type="text/css">
   .content {
-  overflow: auto;
-}
+    overflow: auto;
+  }
+  :root {
+    --accent: var(--theme-color)!important;
+  }
 </style>
 </head>
 <body>
@@ -31,17 +34,18 @@
       name: 'Getting started with MetaCall',
       repo: repo,
       loadSidebar: true,
+      themeColor: '#316ddb',
       pagination: {
-      previousText: 'Previous',
-      nextText: 'Next',
-    },
-	  plugins: [
-                EditOnGithubPlugin.create(
-                    repo + '/blob/master/docs/',
-                    null,
-                    '📝 Edit on GitHub',
-                )
-            ],
+        previousText: 'Previous',
+        nextText: 'Next',
+      },
+      plugins: [
+        EditOnGithubPlugin.create(
+          repo + '/blob/master/docs/',
+          null,
+          '📝 Edit on GitHub',
+        )
+      ],
     }
   </script>
   <!-- Docsify v4 -->
