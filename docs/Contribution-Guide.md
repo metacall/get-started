@@ -49,7 +49,7 @@ Making your first Issue is a holistic experience. It is because making an Issue 
 
 ### Landing your Pull Request
 
-Every Pull Request should have a corresponding Issue, unless and until it’s for a very minor fix. Making a Pull Request is a great experience, but requires specific insights to land up your code on the repository for the very first time. To make sure you land a great contribution, we would request you to follow the [official documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests) to know about code collaboration with GitHub. If you are not already familiar with Git, we would suggest you to follow the [official Git documentation](https://git-scm.com/doc) to have the basic understanding of the same.
+Every Pull Request should have a corresponding Issue, unless and until it’s for a very minor fix. Making a Pull Request is a great experience, but requires specific insights to land up your code on the repository for the very first time. To make sure you land a great contribution, we would request you to follow the our [Git and GitHub workflow](Git-GitHub-Workflow) to know about code collaboration with GitHub. If you are not already familiar with Git, we would suggest you to follow the [official Git documentation](https://git-scm.com/doc) to have the basic understanding of the same.
 
 Once you have made all the changes corresponding to the Issue you are supposed to work on, please make a commit. Once you have made a commit, go ahead and make a Pull Request. The Pull Request template gives you enough information but here are a few things that you are expected to follow:
 
