@@ -8,18 +8,18 @@ MetaCall is a large open-source organization and we have a large number of proje
 
 Here is a table that would help you to find out the currently available projects to contribute to, along with the skills needed and a specific link to their contribution guide:
 
-|Project |Skills |Repository |Documentation |
-|-------------|--------------------------|----------------------|-----------------------|
-|core |C, C++, Python, Javascript, Typescript, Ruby|[metacall/core](https://github.com/metacall/core) |[docs/README.md](https://github.com/metacall/core/blob/develop/docs/README.md) |
-|upload |Typescript, Javascript |[metacall/upload](https://github.com/metacall/upload) |[upload/README.md](https://github.com/metacall/upload/blob/master/README.md) |
-|install |BASH |[metacall/install](https://github.com/metacall/install) |[install/README.md](https://github.com/metacall/install/blob/master/README.md) |
-|dlang-port |D |[metacall/dlang-port](https://github.com/metacall/dlang-port) |[dlang-port/README.md](https://github.com/metacall/dlang-port/blob/master/README.md) |
-|php-port |PHP |[metacall/php-port](https://github.com/metacall/php-port) |[php-port/README.md](https://github.com/metacall/php-port/blob/master/README.md) |
-|cli |Docker |[metacall/cli](https://github.com/metacall/cli) |[cli/README.md](https://github.com/metacall/cli/blob/master/README.md) |
-|guix |Docker, BASH |[metacall/guix](https://github.com/metacall/guix) |[guix/README.md](https://github.com/metacall/guix/blob/master/README.md) |
-|distributable|Scheme, Docker, C |[metacall/distributable](https://github.com/metacall/distributable)|[distributable/README.md](https://github.com/metacall/distributable/blob/master/README.md)|
-|scala-port |Scala |[metacall/scala-port](https://github.com/metacall/scala-port) |[scala-port/README.md](https://github.com/metacall/scala-port/blob/master/README.md) |
-|get-started |Markdown |[metacall/get-started](https://github.com/metacall/get-started) |[Docsify Site](https://metacall.github.io/get-started/#/) |
+| Project       | Skills                                       | Repository                                                          | Documentation                                                                              |
+| ------------- | -------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| core          | C, C++, Python, Javascript, Typescript, Ruby | [metacall/core](https://github.com/metacall/core)                   | [docs/README.md](https://github.com/metacall/core/blob/develop/docs/README.md)             |
+| upload        | Typescript, Javascript                       | [metacall/upload](https://github.com/metacall/upload)               | [upload/README.md](https://github.com/metacall/upload/blob/master/README.md)               |
+| install       | BASH                                         | [metacall/install](https://github.com/metacall/install)             | [install/README.md](https://github.com/metacall/install/blob/master/README.md)             |
+| dlang-port    | D                                            | [metacall/dlang-port](https://github.com/metacall/dlang-port)       | [dlang-port/README.md](https://github.com/metacall/dlang-port/blob/master/README.md)       |
+| php-port      | PHP                                          | [metacall/php-port](https://github.com/metacall/php-port)           | [php-port/README.md](https://github.com/metacall/php-port/blob/master/README.md)           |
+| cli           | Docker                                       | [metacall/cli](https://github.com/metacall/cli)                     | [cli/README.md](https://github.com/metacall/cli/blob/master/README.md)                     |
+| guix          | Docker, BASH                                 | [metacall/guix](https://github.com/metacall/guix)                   | [guix/README.md](https://github.com/metacall/guix/blob/master/README.md)                   |
+| distributable | Scheme, Docker, C                            | [metacall/distributable](https://github.com/metacall/distributable) | [distributable/README.md](https://github.com/metacall/distributable/blob/master/README.md) |
+| scala-port    | Scala                                        | [metacall/scala-port](https://github.com/metacall/scala-port)       | [scala-port/README.md](https://github.com/metacall/scala-port/blob/master/README.md)       |
+| get-started   | Markdown                                     | [metacall/get-started](https://github.com/metacall/get-started)     | [Docsify Site](https://metacall.github.io/get-started/#/)                                  |
 
 There are multiple ways through which you can contribute, even without knowing programming or technical writing. If you plan to get involved with user experience, support, translation or anything else that sparks your interest, do consider reaching us out on our [community channels](/?id=community).
 
@@ -58,7 +58,7 @@ Once you have made all the changes corresponding to the Issue you are supposed t
 - You can keep your PR as a Draft if you are still working on it. Once your work has finished, feel free to mention us so that we can review it.
 - Every Pull Request should be as atomic as possible. Once the review is complete, we will ask to squash the commits before merging it.
 
-If the Pull Request that you made has run into Merge Conflicts, we would recommend you to solve them on your own. Merge Conflicts can be either solved from the Github Web User-Interface or from the Command Line. Here is a [great piece of documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line) to do it through the Command Line.  
+If the Pull Request that you made has run into Merge Conflicts, we would recommend you to solve them on your own. Merge Conflicts can be either solved from the Github Web User-Interface or from the Command Line. Here is a [great piece of documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line) to do it through the Command Line.
 
 ## Reviewing Pull Requests
 
